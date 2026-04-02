@@ -85,7 +85,7 @@ Pipeline RPA para extração e tratamento de dados em operadoras de saúde.
 
 ---
 
-### 📡 [observability-chatops-agent](https://github.com/SEU_USER/observability-chatops-agent)
+### 📡 [observability-chatbot](https://github.com/RafaelSinkevicius/observability-chatbot)
 Assistente de observabilidade integrado ao Grafana.
 
 - Consulta de logs, métricas e traces via chat
